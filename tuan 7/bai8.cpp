@@ -9,4 +9,4 @@ int** transpose(int** matrix, int nRows, int nCols){
         }
     }
     return transposedMatrix;
-}
+}//test
